@@ -1,10 +1,13 @@
 # progressive_budget
 
-![license](https://img.shields.io/github/license/raquellee/progressive_budget)<br />
+![license](https://img.shields.io/github/license/RaquelLee/progressive_budget?style=for-the-badge)
+![issues](https://img.shields.io/github/issues/RaquelLee/progressive_budget?style=for-the-badge)
+<br />
 
 An online &amp; offline budgeting app to meet you where your internet connection is at.
 
-## :cinema: Usage
+[![usage](https://forthebadge.com/images/badges/check-it-out.svg)]()
+
 ![usage gif](https://github.com/RaquelLee/workout_tracker/blob/main/public/assets/images/.gif)
 
 [Budget Usage Video]()
