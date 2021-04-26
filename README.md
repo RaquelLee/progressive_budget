@@ -20,6 +20,8 @@ An online &amp; offline budgeting app to meet you where your internet connection
 * Mongoose
 * Express.js Routing
 * Morgan logger
+* Compression
+* server-lite
 * Heroku
 * Node.js
 
