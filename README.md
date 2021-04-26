@@ -1,4 +1,4 @@
-# progressive_budget
+# progressive_budget :money_with_wings:
 
 ![license](https://img.shields.io/github/license/RaquelLee/progressive_budget?style=for-the-badge)
 ![issues](https://img.shields.io/github/issues/RaquelLee/progressive_budget?style=for-the-badge)
@@ -12,7 +12,7 @@ An online &amp; offline budgeting app to meet you where your internet connection
 
 [Budget Usage Video]()
 
-## Deployed
+## Deployed :link:
 [Progressive Budget on Heroku](https://secure-eyrie-15419.herokuapp.com/)
 
 ## Technologies Used 
