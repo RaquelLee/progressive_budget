@@ -8,7 +8,7 @@ An online &amp; offline budgeting app to meet you where your internet connection
 
 [![usage](https://forthebadge.com/images/badges/check-it-out.svg)]()
 
-![usage](https://github.com/RaquelLee/progressive_budget/blob/main/public/assets/images/budget_tracker_screenshot)
+![usage](https://github.com/RaquelLee/progressive_budget/blob/main/assets/images/budget_tacker_screenshot.png)
 
 ## Deployed :link:
 [Progressive Budget on Heroku](https://quiet-lowlands-18847.herokuapp.com/)
