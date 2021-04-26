@@ -13,7 +13,7 @@ An online &amp; offline budgeting app to meet you where your internet connection
 [Budget Usage Video]()
 
 ## Deployed :link:
-[Progressive Budget on Heroku](https://secure-eyrie-15419.herokuapp.com/)
+[Progressive Budget on Heroku](https://quiet-lowlands-18847.herokuapp.com/)
 
 ## Technologies Used 
 * MongoDB
