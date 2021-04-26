@@ -8,9 +8,7 @@ An online &amp; offline budgeting app to meet you where your internet connection
 
 [![usage](https://forthebadge.com/images/badges/check-it-out.svg)]()
 
-![usage gif](https://github.com/RaquelLee/workout_tracker/blob/main/public/assets/images/.gif)
-
-[Budget Usage Video]()
+![usage](https://github.com/RaquelLee/progressive_budget/blob/main/public/assets/images/budget_tracker_screenshot)
 
 ## Deployed :link:
 [Progressive Budget on Heroku](https://quiet-lowlands-18847.herokuapp.com/)
@@ -21,7 +19,7 @@ An online &amp; offline budgeting app to meet you where your internet connection
 * Express.js Routing
 * Morgan logger
 * Compression
-* server-lite
+* Server-lite
 * Heroku
 * Node.js
 
